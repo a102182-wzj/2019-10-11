@@ -1,0 +1,11 @@
+.list .am-list .am-list-body {
+  border-top: 'none'
+}
+
+.list .am-list-body .am-list-item .am-list-thumb img {
+  width: 36px;
+}
+
+.avtive {
+  background: "#ccc"
+}

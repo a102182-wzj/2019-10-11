@@ -1,0 +1,6 @@
+.ContentTitleButtons button{
+    margin-left: 9px;
+}
+.InputButtons button{
+    margin-left: 5px;
+}

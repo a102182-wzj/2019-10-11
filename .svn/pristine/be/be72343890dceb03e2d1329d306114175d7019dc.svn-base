@@ -1,0 +1,14 @@
+import React from 'react'
+
+export default class WechatUser extends React.Component {
+
+    componentWillMount() {
+        document.title = "微信用户"
+    }
+
+    render() {
+        return (
+            <div>微信用户</div>
+        )
+    }
+}

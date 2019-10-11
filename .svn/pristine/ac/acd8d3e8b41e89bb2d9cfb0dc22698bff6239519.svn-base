@@ -1,0 +1,14 @@
+import React from 'react'
+
+export default class WechatQRcode extends React.Component {
+
+    componentWillMount() {
+        document.title = "二维码管理"
+    }
+
+    render() {
+        return (
+            <div>二维码管理</div>
+        )
+    }
+}

@@ -1,0 +1,3 @@
+适配模式
+    pages下目录新建index.jsx文件并连接dva，在pages下的基类中进行端适配，动态加载对应的端文件。
+    每个不同的适配(pc或mobile)将dva中的stata进行发送
